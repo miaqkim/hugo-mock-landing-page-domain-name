@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Bootstrap Blog on LongevIQ</title>
+    <link>http://localhost:1313/hugo-bootstrap-theme/categories/the-bootstrap-blog/</link>
+    <description>Recent content in The Bootstrap Blog on LongevIQ</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Mia Kim</copyright>
+    <atom:link href="http://localhost:1313/hugo-bootstrap-theme/categories/the-bootstrap-blog/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
