@@ -3,16 +3,12 @@ title: "5 Science-Backed Longevity Tips"
 description: ""
 date: 2023-09-24
 draft: false
-images: ["hugo-logo.png"]
-categories: ["Hugo Release Notes"]
-tags: ["Hugo"]
-keywords: ["hugo v0.119"]
-authors: ["Bjørn Erik Pedersen"]
+images: ["favicon.png"]
+categories: ["Longevity", "Health"]
+tags: ["Wellness", "Longevity Tips"]
+keywords: ["healthspan", "longevity", "science-backed health"]
+authors: ["Mia Kim"]
 ---
-
-![Hugo](hugo-logo.svg)
-{ .img-fluid .mb-5}
-
 Longevity isn't just about genetics—**up to 80% of lifespan variance is influenced by lifestyle choices**.  
 Here are **five research-backed habits** that can help you live longer and healthier:  
 
