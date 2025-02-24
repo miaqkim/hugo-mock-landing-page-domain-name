@@ -1,19 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Featured on LongevIQ</title>
-    <link>https://miaqkim.github.io/hugo-mock-landing-page/tags/featured/</link>
-    <description>Recent content in Featured on LongevIQ</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <copyright>Mia Kim, Class of 2025</copyright>
-    <atom:link href="https://miaqkim.github.io/hugo-mock-landing-page/tags/featured/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Our Mission 🌱</title>
-      <link>https://miaqkim.github.io/hugo-mock-landing-page/page/bootstrap-components/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://miaqkim.github.io/hugo-mock-landing-page/page/bootstrap-components/</guid>
-      <description>&lt;h1 id=&#34;our-mission-&#34;&gt;Our Mission 🌱&lt;/h1&gt;&#xA;&lt;p&gt;At &lt;strong&gt;LongevIQ&lt;/strong&gt;, we believe that a healthier, longer life is within reach for everyone. Our mission is to &lt;strong&gt;empower individuals with AI-driven insights&lt;/strong&gt; that help optimize healthspan and well-being.&lt;/p&gt;&#xA;&lt;h2 id=&#34;-what-we-stand-for&#34;&gt;🌿 What We Stand For:&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Science-Backed Wellness&lt;/strong&gt;: We leverage the latest research in aging, nutrition, and health tracking.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Personalized Insights&lt;/strong&gt;: Our tools adapt to your unique lifestyle, providing actionable recommendations.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Community &amp;amp; Accountability&lt;/strong&gt;: We foster a supportive environment where individuals can track progress, set goals, and stay motivated.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Technology for Longevity&lt;/strong&gt;: Using AI-powered risk analysis, we highlight lifestyle factors that impact longevity and help you make informed choices.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Join us in creating a &lt;strong&gt;longer, healthier, and more fulfilling life&lt;/strong&gt; through the power of data and community. 🚀&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Featured on LongevIQ</title><link>https://miaqkim.github.io/hugo-mock-landing-page-autodeployed/tags/featured/</link><description>Recent content in Featured on LongevIQ</description><generator>Hugo</generator><language>en</language><copyright>Mia Kim, Class of 2025</copyright><atom:link href="https://miaqkim.github.io/hugo-mock-landing-page-autodeployed/tags/featured/index.xml" rel="self" type="application/rss+xml"/><item><title>Our Mission 🌱</title><link>https://miaqkim.github.io/hugo-mock-landing-page-autodeployed/page/bootstrap-components/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://miaqkim.github.io/hugo-mock-landing-page-autodeployed/page/bootstrap-components/</guid><description>&lt;h1 id="our-mission-">Our Mission 🌱&lt;/h1>
+&lt;p>At &lt;strong>LongevIQ&lt;/strong>, we believe that a healthier, longer life is within reach for everyone. Our mission is to &lt;strong>empower individuals with AI-driven insights&lt;/strong> that help optimize healthspan and well-being.&lt;/p>
+&lt;h2 id="-what-we-stand-for">🌿 What We Stand For:&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Science-Backed Wellness&lt;/strong>: We leverage the latest research in aging, nutrition, and health tracking.&lt;/li>
+&lt;li>&lt;strong>Personalized Insights&lt;/strong>: Our tools adapt to your unique lifestyle, providing actionable recommendations.&lt;/li>
+&lt;li>&lt;strong>Community &amp;amp; Accountability&lt;/strong>: We foster a supportive environment where individuals can track progress, set goals, and stay motivated.&lt;/li>
+&lt;li>&lt;strong>Technology for Longevity&lt;/strong>: Using AI-powered risk analysis, we highlight lifestyle factors that impact longevity and help you make informed choices.&lt;/li>
+&lt;/ul>
+&lt;p>Join us in creating a &lt;strong>longer, healthier, and more fulfilling life&lt;/strong> through the power of data and community. 🚀&lt;/p></description></item></channel></rss>
